@@ -1,16 +1,6 @@
-### Hi there 👋
+### Hi there 👋 My name is Giovanni and I'm Game Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
+</br>
 <div align="center">
   <a href="https://github.com/xgiovannisx">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=xgiovannisx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -27,7 +17,15 @@
   <img align="center" alt="Gio-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
 </div>
 
-<div>
+  </br>
+<div align="center"> 
+  <a href="https://www.instagram.com/gio_gamedev/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/giogamedev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/gio_gamedev" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ <a href="" target="_blank"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" target="_blank"></a> 
+ <a href = "mailto:giovannis.mariano@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="" target="_blank"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a> 
+ <a href="" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
 
  ![Snake animation](https://github.com/xgiovannisx/xgiovannisx/blob/output/github-contribution-grid-snake.svg)
  
